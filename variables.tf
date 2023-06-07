@@ -15,5 +15,5 @@ variable "az" {
 
 variable "instancename" {
   type    = string
-  default = "deepthiec2"
+  default = "123"
 }
